@@ -1,0 +1,15 @@
+﻿  Project6.cpp
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(46): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(90): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(92): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(100): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(312): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(320): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(364): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(247): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 'scanf' 선언을 참조하십시오.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(448): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(456): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ra\desktop\hidato_puzzle_improved\project6\project6.cpp(483): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project6.vcxproj -> C:\Users\ra\Desktop\HIDATO_PUZZLE_improved\Debug\Project6.exe
